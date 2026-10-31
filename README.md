@@ -65,9 +65,24 @@ In Cursor MCP settings make sure to toggle the button to connect the server to t
 
 You can now chat with Cursor and analyze stock market data. Simply provide the stock symbol and timeframe you want to analyze, and watch the magic unfold.
 
+---
+
 **Example queries**:
 - "Show me Tesla's stock performance over the last 3 months"
 - "Compare Apple and Microsoft stocks for the past year"
 - "Analyze the trading volume of Amazon stock for the last month"
 
 ---
+
+
+## Results from our demo!
+- "Show me Tesla's stock performance over the last 3 months" 
+
+![Show me Tesla's stock performance over the last 3 months](https://github.com/venkatanarayana143/Finanace-Analyst-MCP/blob/master/results_1.png)
+
+- "Compare Apple and Microsoft stocks for the past year" 
+
+![Compare Apple and Microsoft stocks for the past year](https://github.com/venkatanarayana143/Finanace-Analyst-MCP/blob/master/results_2a.png) ![](https://github.com/venkatanarayana143/Finanace-Analyst-MCP/blob/master/results_2a.png)
+
+
+
